@@ -9,7 +9,7 @@ function Navbar() {
     <nav className="max-w-5xl h-16 mx-auto  flex  justify-between items-center">
       <NavLink to="/">
         <div>
-          <img src="../public/assets/logo.png" width={130} alt="" />
+          <img src="/assets/logo.png" width={130} alt="" />
         </div>
       </NavLink>
       <div className="flex items-center text-white gap-x-8 ">
